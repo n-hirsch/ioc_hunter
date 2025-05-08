@@ -1,0 +1,6 @@
+ioc,type,reputation,last_analysis_stats,harmless_votes,malicious_votes
+8.8.8.8,ip,549,"{'malicious': 0, 'suspicious': 0, 'undetected': 32, 'harmless': 62, 'timeout': 0}",226,41
+1.1.1.1,ip,77,"{'malicious': 0, 'suspicious': 0, 'undetected': 30, 'harmless': 64, 'timeout': 0}",118,31
+http://testphp.vulnweb.com,url,-2,"{'malicious': 0, 'suspicious': 0, 'undetected': 29, 'harmless': 68, 'timeout': 0}",0,2
+http://malicious.test.com,url,0,"{'malicious': 0, 'suspicious': 0, 'undetected': 28, 'harmless': 69, 'timeout': 0}",0,0
+44d88612fea8a8f36de82e1278abb02f,hash,3673,"{'malicious': 66, 'suspicious': 0, 'undetected': 2, 'harmless': 0, 'timeout': 0, 'confirmed-timeout': 0, 'failure': 0, 'type-unsupported': 8}",2182,386

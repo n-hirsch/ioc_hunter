@@ -1,0 +1,6 @@
+8.8.8.8
+1.1.1.1
+hxxp://testphp.vulnweb.com
+hxxp://malicious.test.com
+44d88612fea8a8f36de82e1278abb02f
+ec9c9bcb66d4532cb8d2e86d724e2f78
